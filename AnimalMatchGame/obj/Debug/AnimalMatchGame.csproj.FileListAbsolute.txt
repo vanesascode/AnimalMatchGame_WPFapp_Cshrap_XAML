@@ -12,3 +12,17 @@ C:\Users\Vanesa\source\repos\AnimalMatchGame\AnimalMatchGame\obj\Debug\AnimalMat
 C:\Users\Vanesa\source\repos\AnimalMatchGame\AnimalMatchGame\obj\Debug\AnimalMatchGame.csproj.CoreCompileInputs.cache
 C:\Users\Vanesa\source\repos\AnimalMatchGame\AnimalMatchGame\obj\Debug\AnimalMatchGame.exe
 C:\Users\Vanesa\source\repos\AnimalMatchGame\AnimalMatchGame\obj\Debug\AnimalMatchGame.pdb
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\bin\Debug\AnimalMatchGame.exe.config
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\bin\Debug\AnimalMatchGame.exe
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\bin\Debug\AnimalMatchGame.pdb
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\obj\Debug\AnimalMatchGame.csproj.AssemblyReference.cache
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\obj\Debug\MainWindow.baml
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\obj\Debug\MainWindow.g.cs
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\obj\Debug\App.g.cs
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\obj\Debug\AnimalMatchGame_MarkupCompile.cache
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\obj\Debug\AnimalMatchGame.g.resources
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\obj\Debug\AnimalMatchGame.Properties.Resources.resources
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\obj\Debug\AnimalMatchGame.csproj.GenerateResource.cache
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\obj\Debug\AnimalMatchGame.csproj.CoreCompileInputs.cache
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\obj\Debug\AnimalMatchGame.exe
+C:\Users\Vanesa\Desktop\AnimalMatchGame\AnimalMatchGame\obj\Debug\AnimalMatchGame.pdb
